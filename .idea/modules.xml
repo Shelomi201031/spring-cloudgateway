@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/springcloudgateway.iml" filepath="$PROJECT_DIR$/.idea/springcloudgateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloudgateway.iml" filepath="$PROJECT_DIR$/.idea/spring-cloudgateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudgateway/springcloudgateway.iml" filepath="$PROJECT_DIR$/springcloudgateway/springcloudgateway.iml" />
     </modules>
   </component>
 </project>
